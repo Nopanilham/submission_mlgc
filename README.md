@@ -1,4 +1,6 @@
-TAMPILAN APLIKASI
+<div align="center">
+  TAMPILAN APLIKASI DETEKSI KANKER
+</div>
 
 ![foto 1](https://github.com/user-attachments/assets/566915d8-a504-47df-9b66-543aac84b394)
 
